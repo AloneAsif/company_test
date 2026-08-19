@@ -1,0 +1,42 @@
+export const siteConfig = {
+  name: "USA Web App Coder",
+  tagline: "Turn Your Idea Into a Website or App That Actually Grows Your Business",
+  url: "https://usawebappcoder.com",
+  email: "hello@usawebappcoder.com",
+  phone: "+1 (000) 000-0000",
+  location: "USA-Based Team",
+  socialLinks: {
+    facebook: "https://facebook.com/usawebappcoder",
+    twitter: "https://twitter.com/usawebappcoder",
+    linkedin: "https://linkedin.com/company/usawebappcoder",
+    instagram: "https://instagram.com/usawebappcoder",
+  },
+  navLinks: [
+    { label: "Services", href: "#services" },
+    { label: "Why Us", href: "#why-choose-us" },
+    { label: "Portfolio", href: "#portfolio" },
+    { label: "Testimonials", href: "#testimonials" },
+    { label: "FAQ", href: "#faq" },
+    { label: "Contact", href: "#contact" },
+  ],
+  footerLinks: {
+    company: [
+      { label: "About Us", href: "#about" },
+      { label: "Services", href: "#services" },
+      { label: "Portfolio", href: "#portfolio" },
+      { label: "Testimonials", href: "#testimonials" },
+      { label: "FAQ", href: "#faq" },
+    ],
+    services: [
+      { label: "Website Design", href: "#services" },
+      { label: "Web Development", href: "#services" },
+      { label: "App Development", href: "#services" },
+      { label: "Digital Marketing", href: "#services" },
+      { label: "Content Writing", href: "#services" },
+      { label: "Graphic Design", href: "#services" },
+      { label: "Ecommerce Store Setup & Automation", href: "#services" },
+      { label: "Shopify Web Development", href: "#services" },
+      { label: "Ecommerce Web Development", href: "#services" },
+    ],
+  },
+};
